@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AIService.TranslationPage"
+             Title="TranslationPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Translation Web App" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" />
+
+        <Label Text="Source Language:" FontSize="18" />
+        <Picker x:Name="sourceLanguagePicker">
+            <Picker.Items>
+                <x:String>English</x:String>
+                <x:String>French</x:String>
+                <!-- Add more language options here -->
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Target Language:" FontSize="18" />
+        <Picker x:Name="targetLanguagePicker">
+            <Picker.Items>
+                <x:String>Spanish</x:String>
+                <x:String>German</x:String>
+                <!-- Add more language options here -->
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Text to Translate:" FontSize="18" />
+        <Editor x:Name="textToTranslateEditor" HeightRequest="100" />
+
+        <Button Text="Translate" FontSize="20" Clicked="TranslateButton_Clicked" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" />
+
+        <Label Text="Translation:" FontSize="18" Margin="0,20,0,0" />
+        <Label x:Name="translationResultLabel" FontSize="16" TextColor="Blue" />
+    </StackLayout>
+    
+</ContentPage>

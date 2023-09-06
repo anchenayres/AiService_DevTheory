@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anchi\\source\\repos\\AIService\\AIService.csproj": {}
+    "C:\\Users\\anchi\\OneDrive\\Documents\\GitHub\\AiService_DevTheory\\AiService_DevTheory\\AIService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anchi\\source\\repos\\AIService\\AIService.csproj": {
+    "C:\\Users\\anchi\\OneDrive\\Documents\\GitHub\\AiService_DevTheory\\AiService_DevTheory\\AIService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anchi\\source\\repos\\AIService\\AIService.csproj",
+        "projectUniqueName": "C:\\Users\\anchi\\OneDrive\\Documents\\GitHub\\AiService_DevTheory\\AiService_DevTheory\\AIService.csproj",
         "projectName": "AIService",
-        "projectPath": "C:\\Users\\anchi\\source\\repos\\AIService\\AIService.csproj",
+        "projectPath": "C:\\Users\\anchi\\OneDrive\\Documents\\GitHub\\AiService_DevTheory\\AiService_DevTheory\\AIService.csproj",
         "packagesPath": "C:\\Users\\anchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anchi\\source\\repos\\AIService\\obj\\",
+        "outputPath": "C:\\Users\\anchi\\OneDrive\\Documents\\GitHub\\AiService_DevTheory\\AiService_DevTheory\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

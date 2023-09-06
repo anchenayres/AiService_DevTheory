@@ -1,1 +1,1 @@
-C:\Users\anchi\source\repos\AIService\AIService.csproj;x64
+C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\AIService.csproj;x64
