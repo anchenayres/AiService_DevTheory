@@ -201,4 +201,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgements
 
 - [.NET MAUI Documentation](https://docs.microsoft.com/dotnet/maui/)
-- [MyMemory Documentation](https://mymemory.translated.net/doc/spec.php)
+- [MyMemory AI Documentation](https://mymemory.translated.net/doc/spec.php)
