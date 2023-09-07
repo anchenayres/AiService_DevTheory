@@ -53,14 +53,14 @@
         <Label Text="Enter Text" FontSize="18" Padding="30" />
         <Editor x:Name="textToTranslateEditor" Margin="-1000,0,0,0"  WidthRequest="420" HeightRequest="100" />
 
-        <Button Text="Translate" Padding="-1000,0,0,0"  FontSize="20" Clicked="TranslateButton_Clicked" HorizontalOptions="StartAndExpand" Margin="0,20,0,0" />
+        <Button Text="Translate"   FontSize="20" Clicked="TranslateButton_Clicked" HorizontalOptions="StartAndExpand" Margin="180,20,0,0" />
 
-        <Label Text="Translation:" FontSize="18" Margin="0,20,0,0" />
-        <Label x:Name="translationResultLabel" FontSize="16" TextColor="Blue" />
-
-        <Button Text="Translate in Reverse" Clicked="TranslateInReverseButton_Clicked" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+        <Label Text="Translation" FontSize="18" Margin="300,-370,0,0" />
+            <Label x:Name="translationResultLabel" FontSize="16" Margin="150,-370,0,0" TextColor="Blue" />
+        </StackLayout>
+        <Button Text="Translate in Reverse" Margin="50,0,0,0" Clicked="TranslateInReverseButton_Clicked" />
         <Label x:Name="reverseTranslationLabel" FontSize="16" TextColor="Green" />
-        
         
         
 
