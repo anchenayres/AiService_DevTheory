@@ -650,3 +650,6 @@ C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory
 C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\france.scale-100.jpg
 C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\france.scale-100.png
 C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.jpg
+C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\italy.scale-100.png
+C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\russia.scale-100.png
+C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\spain.scale-100.png

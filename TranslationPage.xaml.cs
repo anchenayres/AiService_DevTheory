@@ -71,5 +71,46 @@ namespace AIService
             selectedFlag = (Image)sender;
             selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
         }
+
+        private void russia_Tapped(object sender, EventArgs e)
+        {
+            if (selectedFlag != null)
+            {
+                selectedFlag.Style = (Style)Resources["UnselectedFlagStyle"];
+            }
+
+            targetLanguage = "ru";
+
+            selectedFlag = (Image)sender;
+            selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
+        }
+
+        private void spain_Tapped(object sender, EventArgs e)
+        {
+            if (selectedFlag != null)
+            {
+                selectedFlag.Style = (Style)Resources["UnselectedFlagStyle"];
+            }
+
+            targetLanguage = "es";
+
+            selectedFlag = (Image)sender;
+            selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
+        }
+
+        private void italy_Tapped(object sender, EventArgs e)
+        {
+            if (selectedFlag != null)
+            {
+                selectedFlag.Style = (Style)Resources["UnselectedFlagStyle"];
+            }
+
+            targetLanguage = "it";
+
+            selectedFlag = (Image)sender;
+            selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
+        }
+
+
     }
 }

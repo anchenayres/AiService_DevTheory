@@ -47,20 +47,36 @@
                     <TapGestureRecognizer Tapped="dutch_Tapped" />
                 </Image.GestureRecognizers>
             </Image>
+            <Image Source="italy.png" WidthRequest="80" Margin="20,65,0,0"   HeightRequest="80" Style="{DynamicResource UnselectedFlagStyle}">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="italy_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="russia.png" WidthRequest="80" Margin="20,65,0,0"   HeightRequest="80" Style="{DynamicResource UnselectedFlagStyle}">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="russia_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="spain.png" WidthRequest="80" Margin="20,65,0,0"   HeightRequest="80" Style="{DynamicResource UnselectedFlagStyle}">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="spain_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
 
+            
         </StackLayout>
 
         <Label Text="Enter Text" FontSize="18" Padding="30" />
         <Editor x:Name="textToTranslateEditor" Margin="-1000,0,0,0"  WidthRequest="420" HeightRequest="100" />
 
-        <Button Text="Translate" FontSize="20" Clicked="TranslateButton_Clicked" HorizontalOptions="StartAndExpand" Margin="180,20,0,0" />
+        <Button Text="Translate" FontSize="20" Clicked="TranslateButton_Clicked" BackgroundColor="LightBlue" HorizontalOptions="StartAndExpand" Margin="180,20,0,0" />
 
         <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
         <Label Text="Translation" FontSize="18" Margin="-90,-220,0,0" />
         </StackLayout>
 
             <Label x:Name="translationResultLabel" FontSize="16" Margin="647,-170,0,0" TextColor="DeepSkyBlue" />
-        <Button Text="Translate in Reverse" Margin="10,100,0,0" MaximumWidthRequest="215" Clicked="TranslateInReverseButton_Clicked" />
+        <Button Text="Translate in Reverse" Margin="10,100,0,0" BackgroundColor="LightBlue" MaximumWidthRequest="215" Clicked="TranslateInReverseButton_Clicked" />
         <Label x:Name="reverseTranslationLabel"  Margin="650,50,0,0" FontSize="16" TextColor="DeepSkyBlue" />
         
         

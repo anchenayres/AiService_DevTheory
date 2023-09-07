@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-07T16:54:20.427</Modified>
+      <Modified>2023-09-07T17:23:15.184</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-07T16:54:20.077</Modified>
+      <Modified>2023-09-07T17:23:14.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.runtimeconfig.json">
       <PackagePath>AIService.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.dll">
       <PackagePath>AIService.dll</PackagePath>
-      <Modified>2023-09-07T16:54:19.009</Modified>
+      <Modified>2023-09-07T17:23:14.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AIService.exe</PackagePath>
-      <Modified>2023-09-07T16:54:19.073</Modified>
+      <Modified>2023-09-07T17:23:14.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.deps.json">
       <PackagePath>AIService.deps.json</PackagePath>
-      <Modified>2023-09-07T12:49:58.983</Modified>
+      <Modified>2023-09-07T17:10:38.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -968,207 +968,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-09-07T12:42:06.071</Modified>
+      <Modified>2023-09-07T17:05:53.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.291</Modified>
+      <Modified>2023-09-07T17:05:54.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.301</Modified>
+      <Modified>2023-09-07T17:05:54.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.309</Modified>
+      <Modified>2023-09-07T17:05:54.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.322</Modified>
+      <Modified>2023-09-07T17:05:54.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.374</Modified>
+      <Modified>2023-09-07T17:05:54.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.131</Modified>
+      <Modified>2023-09-07T17:05:53.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.133</Modified>
+      <Modified>2023-09-07T17:05:53.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.146</Modified>
+      <Modified>2023-09-07T17:05:53.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.135</Modified>
+      <Modified>2023-09-07T17:05:53.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.137</Modified>
+      <Modified>2023-09-07T17:05:53.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.115</Modified>
+      <Modified>2023-09-07T17:05:53.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.118</Modified>
+      <Modified>2023-09-07T17:05:53.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.128</Modified>
+      <Modified>2023-09-07T17:05:53.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.120</Modified>
+      <Modified>2023-09-07T17:05:53.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.122</Modified>
+      <Modified>2023-09-07T17:05:53.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.082</Modified>
+      <Modified>2023-09-07T17:05:53.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.085</Modified>
+      <Modified>2023-09-07T17:05:53.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.088</Modified>
+      <Modified>2023-09-07T17:05:53.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.091</Modified>
+      <Modified>2023-09-07T17:05:53.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.096</Modified>
+      <Modified>2023-09-07T17:05:53.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.099</Modified>
+      <Modified>2023-09-07T17:05:53.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.101</Modified>
+      <Modified>2023-09-07T17:05:53.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.113</Modified>
+      <Modified>2023-09-07T17:05:53.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.104</Modified>
+      <Modified>2023-09-07T17:05:53.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.106</Modified>
+      <Modified>2023-09-07T17:05:53.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.191</Modified>
+      <Modified>2023-09-07T17:05:54.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.196</Modified>
+      <Modified>2023-09-07T17:05:54.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.204</Modified>
+      <Modified>2023-09-07T17:05:54.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.212</Modified>
+      <Modified>2023-09-07T17:05:54.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.229</Modified>
+      <Modified>2023-09-07T17:05:54.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.166</Modified>
+      <Modified>2023-09-07T17:05:54.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.169</Modified>
+      <Modified>2023-09-07T17:05:54.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.173</Modified>
+      <Modified>2023-09-07T17:05:54.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.176</Modified>
+      <Modified>2023-09-07T17:05:54.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.186</Modified>
+      <Modified>2023-09-07T17:05:54.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.148</Modified>
+      <Modified>2023-09-07T17:05:53.987</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.150</Modified>
+      <Modified>2023-09-07T17:05:53.990</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.153</Modified>
+      <Modified>2023-09-07T17:05:53.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.157</Modified>
+      <Modified>2023-09-07T17:05:53.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.164</Modified>
+      <Modified>2023-09-07T17:05:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.233</Modified>
+      <Modified>2023-09-07T17:05:54.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.239</Modified>
+      <Modified>2023-09-07T17:05:54.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.246</Modified>
+      <Modified>2023-09-07T17:05:54.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.257</Modified>
+      <Modified>2023-09-07T17:05:54.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.283</Modified>
+      <Modified>2023-09-07T17:05:54.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.114</Modified>
+      <Modified>2023-09-07T17:05:53.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.123</Modified>
+      <Modified>2023-09-07T17:05:53.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.135</Modified>
+      <Modified>2023-09-07T17:05:53.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.153</Modified>
+      <Modified>2023-09-07T17:05:53.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-09-07T12:42:06.202</Modified>
+      <Modified>2023-09-07T17:05:54.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dutch.scale-100.png">
       <PackagePath>dutch.scale-100.png</PackagePath>
@@ -1182,9 +1182,21 @@
       <PackagePath>france.scale-100.png</PackagePath>
       <Modified>2023-09-07T08:37:31.704</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\italy.scale-100.png">
+      <PackagePath>italy.scale-100.png</PackagePath>
+      <Modified>2023-09-07T17:03:46.190</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.jpg">
       <PackagePath>logo.scale-100.jpg</PackagePath>
       <Modified>2023-09-07T10:16:53.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\russia.scale-100.png">
+      <PackagePath>russia.scale-100.png</PackagePath>
+      <Modified>2023-09-07T17:04:55.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\spain.scale-100.png">
+      <PackagePath>spain.scale-100.png</PackagePath>
+      <Modified>2023-09-07T17:05:24.424</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

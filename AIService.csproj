@@ -52,7 +52,10 @@
 	  <None Remove="Resources\Images\dutch.png" />
 	  <None Remove="Resources\Images\france.jpg" />
 	  <None Remove="Resources\Images\france.png" />
+	  <None Remove="Resources\Images\italy.png" />
 	  <None Remove="Resources\Images\logo.jpg" />
+	  <None Remove="Resources\Images\russia.png" />
+	  <None Remove="Resources\Images\spain.png" />
 	</ItemGroup>
 
 	<ItemGroup>
