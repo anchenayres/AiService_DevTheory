@@ -45,14 +45,31 @@ namespace AIService
             }
         }
 
+        private Image selectedFlag = null;
+        private Frame selectedFlagFrame = null;
         private void french_Tapped(object sender, EventArgs e)
         {
-            targetLanguage = "fr";
-        }
+            if (selectedFlag != null)
+            {
+                selectedFlag.Style = (Style)Resources["UnselectedFlagStyle"];
+            }
 
+            targetLanguage = "fr";
+
+            selectedFlag = (Image)sender;
+            selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
+        }
         private void dutch_Tapped(object sender, EventArgs e)
         {
+            if (selectedFlag != null)
+            {
+                selectedFlag.Style = (Style)Resources["UnselectedFlagStyle"];
+            }
+
             targetLanguage = "nl";
+
+            selectedFlag = (Image)sender;
+            selectedFlag.Style = (Style)Resources["SelectedFlagStyle"];
         }
     }
 }

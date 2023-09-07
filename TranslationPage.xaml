@@ -2,9 +2,24 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AIService.TranslationPage"
-             Title="TranslationPage">
+             >
 
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!-- Define a style for selected flags -->
+            <Style x:Key="SelectedFlagStyle" TargetType="Image">
+                <Setter Property="BackgroundColor" Value="{DynamicResource Gray100}"/>
+            </Style>
+
+            <!-- Define a style for unselected flags -->
+            <Style x:Key="UnselectedFlagStyle" TargetType="Image">
+                <Setter Property="BackgroundColor" Value="Transparent" />
+            </Style>
+        </ResourceDictionary>
+        
+    </ContentPage.Resources>
     <StackLayout Padding="20">
+        <Image Source="logo.jpg" WidthRequest="40" HeightRequest="40"></Image>
         <Label Text="Breaking Barriers" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" />
 
         <Label Text="Source Language:" FontSize="18" />
@@ -16,16 +31,17 @@
 
         <!-- FLAGS -->
         <StackLayout Orientation="Horizontal" Spacing="10">
-            <Image Source="france.png" WidthRequest="40" HeightRequest="40">
+            <Image x:Name="frenchFlag" Source="france.png" WidthRequest="40" HeightRequest="40" Style="{DynamicResource UnselectedFlagStyle}">
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Tapped="french_Tapped" />
                 </Image.GestureRecognizers>
             </Image>
-            <Image Source="dutch.png" WidthRequest="40" HeightRequest="40">
+                <Image Source="dutch.png" WidthRequest="40" HeightRequest="40" Style="{DynamicResource UnselectedFlagStyle}">
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Tapped="dutch_Tapped" />
                 </Image.GestureRecognizers>
             </Image>
+
         </StackLayout>
 
         <Label Text="Text to Translate:" FontSize="18" />
