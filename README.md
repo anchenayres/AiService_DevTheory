@@ -101,80 +101,83 @@ Breaking Barriers leverages the power of .NET MAUI to create a translation web a
 
 To ensure Breaking Barriers was able to provide a seamless experience - we went above and beyond. Using the folloing:
 
-- Reverse Translation implementation.
+- Reverse Translation implementation which is used for checking translation accuracy. Sometimes, translation engines may not provide a perfect translation, and this feature helps users confirm whether the original meaning is retained after translation and back-translation.
   
 ![image2](./MockUps/3.png)
 
 ### Core Functionalities
 
-#### Project Management
+#### Translation Page Overview
 
-Nova offers a robust project management system, allowing agencies to organize and oversee their projects efficiently. Teams can track progress, assign tasks, and collaborate seamlessly.
+It is a translation web application using .NET MAUI (or Xamarin) and C# for cross-platform compatibility. It focuses on translation services, allowing users to input text in one language, select a target language, and then translate the text between languages using an external API, possibly the MyMemory API. The app also features a user-friendly interface with flags representing different languages, and users can tap these flags to select their target language for translation. Additionally, there is an option for reverse translation, allowing users to translate back from the target language to the source language. The app uses various UI components, HTTP requests, and styles to provide a seamless translation experience.
 
-#### Resource Allocation
+#### MyMemory AI Service
 
-Efficient resource allocation is crucial for agency success. Nova enables teams to assign developers, designers, and other resources to specific projects, ensuring optimal utilization.
-
-#### Project Visualization
-
-Nova's intuitive dashboard provides visual representations of project timelines, milestones, and deadlines, offering a comprehensive overview of agency activities.
-
-#### Client Overview
-
-Nova facilitates client interactions by providing a dedicated page for clients to track project progress, and stay informed about the development process.
+The MyMemory API service is utilized for language translation. The TranslationService class integrated this API by sending HTTP GET requests with text to be translated, the source language, and the target language. The API responded with translated text, which was then displayed in your app. This integration allowed your app to provide real-time translation services to users, enhancing its functionality and usability.
 
 ### Specific Functionalities
 
-#### User Management 
+#### Language Translation 
 
-Nova Admins can securely perform login and logout actions, supported by hashed passwords to safeguard their information. Additionally, they have the ability to add and update users as required.
+Users can enter text in one language and select a target language for translation. The app utilizes the MyMemory API to translate the text into the chosen language and displays the translated result.
 
-#### Dashboard Overview 
+#### Reverse Translation 
 
-Nova's dashboard offers a comprehensive snapshot of the company's data, displaying key metrics such as client count, staff size, and project statistics. Additionally, it features a graphical representation of our annual financial performance and provides a convenient glimpse into our ongoing projects.
+Users can also perform reverse translation by clicking the "Translate in Reverse" button. This reverses the translation from the target language back to the source language.
 
-#### Client Management
+#### Language Selection
 
-Nova empowers you to effectively manage your clients by providing features that allow for easy searching, addition, updates, and deactivation. Furthermore, it offers a comprehensive overview of all their associated projects.
+Users can choose both the source and target languages from drop-down lists.
 
+#### Flag Selection
 
-#### Staff Management
+Users can tap on flags representing different languages to select the target language for translation.
 
-The staff page offers a comprehensive overview of the entire team, providing a centralized repository for storing their vital information. It enables effortless actions such as adding, searching, updating, and deactivating staff members.
+#### Visual Feedback
 
-#### Project Management
+When a flag is selected, it is highlighted with a distinct background color, providing visual feedback to the user.
 
-Nova simplifies project management by offering a seamless experience. You have the flexibility to add and update projects as needed, and you can assign tasks to different team members effortlessly. All the essential project information you require is readily available within the system.
+#### Error Handling
 
-#### Finance Management
+The app handles errors gracefully, displaying messages when translation requests fail or when required fields are not filled.
 
-Nova's funds page streamlines financial management, providing a comprehensive solution. Users can access an overview of all projects and their respective financial details, monitor the company's overall financial health, view a monthly breakdown of income and expenses through a graphical representation, and conveniently filter through the data for ease of use.
+#### User Interface
+
+The user interface is designed with labels, editors, buttons, and images for a user-friendly experience.
+
+#### Styling
+
+The app employs styles for selected and unselected flags to enhance the visual presentation.
+
+#### NuGet Packages
+
+The project may utilize additional NuGet packages for platform-specific functionality.
 
 ## Challenges, Highlights & Learnings
 
 ### Challenges
 
-Maui posed a substantial challenge for our team, with every member encountering their own set of difficulties. Moreover, establishing a connection with the backend proved to be a notably intricate task.
+The challenges encountered was mostly just understanding how to implement the MyMemory AI Service, it took a lot of time to implement the functionality but once I understood it, the project went smoothly.
 
 ### Highlights
 
-A highlight for all of us was the opportunity to acquire proficiency in a new framework. Despite its inherent complexity, we relished the challenge and firmly believe that it contributed to our growth as developers.
+A highlight was definitely getting the MyMemory API working and implementing that in my project, seeing everything come together was a great achievement.
 
 ### Key Learnings
 
-Nova's development journey emphasized the importance of thoughtful architecture, efficient resource management, and intuitive design. The experience enriched our understanding of creating comprehensive, real-world applications.
+The experience enriched my understanding of creating an translation AI service through the use of MyMemory AI. 
 
 ## Future Enhancements
 
-In the future, we aspire to delve deeper into Nova's functionalities, including the capability to generate project notes. We would also like to ensure that Nova provides a seamless experience for all.
+In the future, I would like to focus on the UI of my project. Although the functionality is working perfectly, it would've looked better with a more comprehensive approach.
 
 ![image4](./MockUps/4.png)
 
-Visit the [GitHub repository](https://github.com/xviovx/Nova) for an overview of proposed features and ongoing development (if applicable).
+Visit the [GitHub repository](https://github.com/anchenayres/AiService_DevTheory.git) for an overview of proposed features and ongoing development (if applicable).
 
 ## Author
 
-- **Anchen Ayres** - [anchenayres](https://github.com/anchenayres)
+- **Anchen Ayres** - [anchenayres](https://github.com/anchenayres/AiService_DevTheory.git)
 
 ## License
 
@@ -182,10 +185,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Project Link** - https://github.com/xviovx/Nova
+- **Project Link** - https://github.com/anchenayres/AiService_DevTheory.git
 
 ## Acknowledgements
 
-- [StackOverflow](https://stackoverflow.com/)
 - [.NET MAUI Documentation](https://docs.microsoft.com/dotnet/maui/)
-- [Material for .NET MAUI](https://material.dotnetmaui.dev/)
