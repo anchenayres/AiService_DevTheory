@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-07T12:49:59.601</Modified>
+      <Modified>2023-09-07T13:10:42.441</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-07T12:49:59.279</Modified>
+      <Modified>2023-09-07T13:10:41.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.runtimeconfig.json">
       <PackagePath>AIService.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.dll">
       <PackagePath>AIService.dll</PackagePath>
-      <Modified>2023-09-07T12:49:57.790</Modified>
+      <Modified>2023-09-07T13:10:39.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AIService.exe</PackagePath>
-      <Modified>2023-09-07T12:49:57.858</Modified>
+      <Modified>2023-09-07T13:10:39.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anchi\OneDrive\Documents\GitHub\AiService_DevTheory\AiService_DevTheory\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AIService.deps.json">
       <PackagePath>AIService.deps.json</PackagePath>
