@@ -5,7 +5,7 @@
              Title="TranslationPage">
 
     <StackLayout Padding="20">
-        <Label Text="Translation Web App" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" />
+        <Label Text="Breaking Barriers" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" />
 
         <Label Text="Source Language:" FontSize="18" />
         <Picker x:Name="sourceLanguagePicker">
