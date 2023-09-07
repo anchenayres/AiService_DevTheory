@@ -34,7 +34,7 @@ Welcome to Breaking Barriers, this is a basic translation web application using 
 
 ### Project Description
 
-Breaking Barriers is a translation web application breaks the barrier of language. It allows users to enter any text which they can translate to a range of languages. 
+Breaking Barriers is a translation web application which breaks the barrier of language. It allows users to enter any text which they can translate to a range of languages. 
 
 ### Built With
 
@@ -45,7 +45,7 @@ Breaking Barriers is a translation web application breaks the barrier of languag
 
 ## Getting Started
 
-The following steps and instructions will guide you through setting up the Nova management system on your local machine for development, practice, and testing purposes.
+The following steps and instructions will guide you through setting up the Breaking Barriers project.
 
 ### How to Install
 
@@ -63,6 +63,20 @@ This project was developed using .NET MAUI.
 
 1. Set the startup project to the desired platform (iOS, Android, Windows, etc.).
 2. Press the "Run" button or use the IDE's debugging tools to start the application.
+
+### MyMemory AI Setup
+
+1. Sign Up for MyMemory API Access 
+- Visit the MyMemory API website (View the acknowledgements for the link).
+- Sign up for a free account or log in if you already have one.
+- Access the API documentation and guidelines for developers.
+2. Generate API Key
+- After logging in, navigate to the API section of your account dashboard.
+- Create a new API key for your application. This key will be used to authenticate your requests to the MyMemory API.
+3. Integrate API Key into the Application
+- In your Xamarin Maui project, open the translation service component (e.g., TranslationService.cs).
+- Add the API key you generated as a constant or configuration variable in your code.
+- Use this API key when making requests to the MyMemory API.
 
 ### Adding New Features
 
@@ -95,11 +109,10 @@ Breaking Barriers leverages the power of .NET MAUI to create a translation web a
 
 - Utilized .NET MAUI for building the frontend.
 - Leveraged C# and XAML to create intuitive interfaces.
-- Integrated SQLite for efficient data storage and retrieval.
 
 ### Above and Beyond
 
-To ensure Breaking Barriers was able to provide a seamless experience - we went above and beyond. Using the folloing:
+To ensure Breaking Barriers was able to provide a seamless experience - I went above and beyond. Using the folloing:
 
 - Reverse Translation implementation which is used for checking translation accuracy. Sometimes, translation engines may not provide a perfect translation, and this feature helps users confirm whether the original meaning is retained after translation and back-translation.
   
@@ -188,3 +201,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgements
 
 - [.NET MAUI Documentation](https://docs.microsoft.com/dotnet/maui/)
+- [MyMemory Documentation](https://mymemory.translated.net/doc/spec.php)
