@@ -29,7 +29,6 @@ namespace AIService
         {
             try
             {
-                // Ensure textToTranslate is URL-encoded to handle special characters
                 textToTranslate = System.Net.WebUtility.UrlEncode(textToTranslate);
 
                 // Build the API request URL for translation
@@ -62,23 +61,15 @@ namespace AIService
                 }
                 else
                 {
-                    // Handle non-successful HTTP status codes (e.g., 404, 500)
-                    // You can return appropriate error messages or handle specific cases here
                     return "Translation request failed with HTTP status code: " + response.StatusCode;
                 }
             }
             catch (HttpRequestException ex)
             {
-                // Handle HTTP request-related exceptions
-                // Log the exception details for troubleshooting
-                // Example: Console.WriteLine("HTTP request failed: " + ex.Message);
                 return "Translation request failed: " + ex.Message;
             }
             catch (Exception ex)
             {
-                // Handle other exceptions (e.g., network issues, timeouts)
-                // Log the exception details for troubleshooting
-                // Example: Console.WriteLine("An error occurred: " + ex.Message);
                 return "An error occurred: " + ex.Message;
             }
         }
