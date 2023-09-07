@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/xviovx/Nova">
-        <img src="MockUps/logo.png" alt="Logo" width="230">
+        <img src="Mockups/logo.jpg" alt="Logo" width="230">
     </a>
 </p>
 
@@ -26,7 +26,7 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-![image0](./MockUps/1.png)
+![image0](./Mockups/mockup1.png)
 
 ## About the Project
 
@@ -83,7 +83,7 @@ Unit Tests: Implement and execute unit tests using the testing tools integrated 
 
 For more help on .NET MAUI and its development process, refer to the official .NET MAUI documentation.
 
-![image1](./MockUps/2.png)
+![image1](./Mockups/mockup2.png)
 
 ## Development Process
 
@@ -103,7 +103,7 @@ To ensure Breaking Barriers was able to provide a seamless experience - we went 
 
 - Reverse Translation implementation which is used for checking translation accuracy. Sometimes, translation engines may not provide a perfect translation, and this feature helps users confirm whether the original meaning is retained after translation and back-translation.
   
-![image2](./MockUps/3.png)
+![image2](./Mockups/mockup3.png)
 
 ### Core Functionalities
 
@@ -170,8 +170,6 @@ The experience enriched my understanding of creating an translation AI service t
 ## Future Enhancements
 
 In the future, I would like to focus on the UI of my project. Although the functionality is working perfectly, it would've looked better with a more comprehensive approach.
-
-![image4](./MockUps/4.png)
 
 Visit the [GitHub repository](https://github.com/anchenayres/AiService_DevTheory.git) for an overview of proposed features and ongoing development (if applicable).
 
