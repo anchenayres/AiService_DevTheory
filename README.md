@@ -56,18 +56,17 @@ This project was developed using .NET MAUI.
 ### Development Environment
 
 1. Clone the AiService_DevTheory repository from [GitHub](https://github.com/anchenayres/AiService_DevTheory.git).
-2. Open the solution in Visual Studio or Visual Studio for Mac.
+2. Open the solution in Visual Studio.
 3. Build the solution to restore NuGet packages and prepare the project files.
 
 ### Running the Application
 
 1. Set the startup project to the desired platform (iOS, Android, Windows, etc.).
 2. Press the "Run" button or use the IDE's debugging tools to start the application.
-3. Nova's management system will launch on the selected platform's emulator or device.
 
 ### Adding New Features
 
-1. To enhance Nova's functionality, add new components by right-clicking on the desired project folder.
+1. To enhance Breaking Barriers functionality, add new components by right-clicking on the desired project folder.
 2. Choose "Add" > "New Item" and select the appropriate .NET MAUI template.
 3. Follow the prompts to configure and implement the new feature.
 
@@ -78,8 +77,7 @@ This project was developed using .NET MAUI.
 
 ### Running Tests
 
-1. Unit Tests: Implement and execute unit tests using the testing tools integrated into .NET MAUI.
-2. Integration Tests: Develop and run integration tests to ensure smooth functionality across different modules.
+Unit Tests: Implement and execute unit tests using the testing tools integrated into .NET MAUI.
 
 ### Further Assistance
 
@@ -89,28 +87,22 @@ For more help on .NET MAUI and its development process, refer to the official .N
 
 ## Development Process
 
-The Development Process outlines the technical implementations and functionalities integrated into the frontend and backend of the Nova management system.
+The Development Process outlines the technical implementations and functionalities integrated into the frontend and backend of the project.
 
 ### Implementation Approach
 
-Nova leverages the power of .NET MAUI to create a versatile and feature-rich management system. The backend is supported by a SQLite database, providing data persistence and seamless interactions.
+Breaking Barriers leverages the power of .NET MAUI to create a translation web application.
 
 - Utilized .NET MAUI for building the frontend.
-- Leveraged C# and XAML to create intuitive user interfaces.
+- Leveraged C# and XAML to create intuitive interfaces.
 - Integrated SQLite for efficient data storage and retrieval.
 
 ### Above and Beyond
 
-To ensure Nova was able to provide users with a seamless experience - we went above and beyond. Using the folloing:
+To ensure Breaking Barriers was able to provide a seamless experience - we went above and beyond. Using the folloing:
 
-- Acrylic View NuGet Package
-- Mopups NuGet Package
-- Filter through funds
-- Drawable graphs
-- Search functionality
-- Create Tasks functionality
-- Custom navigation
-
+- Reverse Translation implementation.
+  
 ![image2](./MockUps/3.png)
 
 ### Core Functionalities
@@ -180,11 +172,8 @@ In the future, we aspire to delve deeper into Nova's functionalities, including 
 
 Visit the [GitHub repository](https://github.com/xviovx/Nova) for an overview of proposed features and ongoing development (if applicable).
 
-## Authors
+## Author
 
-- **Alexa Pettitt** - [AlexaPea](https://github.com/AlexaPea)
-- **Caidyn Ginger** - [CaidynGinger](https://github.com/CaidynGinger)
-- **Kyle Pharoah** - [xviovx](https://github.com/xviovx)
 - **Anchen Ayres** - [anchenayres](https://github.com/anchenayres)
 
 ## License
